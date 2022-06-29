@@ -13,10 +13,3 @@
 - 📫 Contato: **fontesmab@gmail.com**
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/beatriz-fontes-54b15b16a/]
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/beatriz-fontes-54b15b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https ://www.linkedin.com/in/beatriz-fontes-54b15b16a/" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=biafontes&show_icons=true&locale=en&layout=compact" alt="biafontes" /></p>
