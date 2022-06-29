@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, eu sou a Beatriz</h1>
 <h3 align="center">Estudante de linguagem de programação.</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=biafontes&label=Profile%20views&color=0e75b6&style=flat" alt="biafontes" /> </p>
 
 - 🌱 Atualmente estou estudando **linguagem web.**
 
