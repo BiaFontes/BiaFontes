@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de linguagem de programação.</h3>
 
 
-- 🌱 Atualmente estou estudando **linguagem web.**
+- 🌱 Atualmente estou estudando **HTML, CSS, JS.**
 
 - 👯 Procuro colaborar **com todos os colegas iniciantes como eu.**
 
