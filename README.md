@@ -1,27 +1,16 @@
-<h1 align="center">Olá 👋, eu sou a Beatriz</h1>
-<h3 align="center">Estudante de linguagem de programação.</h3>
+<h1> ** Olá eu sou a Bia 😁** </h1>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=biafontes&label=Profile%20views&color=0e75b6&style=flat" alt="biafontes" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaFontes&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaFontes&layout=compact&theme=monokai)](https://github.com/BiaFontes/github-readme-stats)
 
-- 🌱 Atualmente estou estudando ** C# **
+##
 
-- 👯 Procuro colaborar **com todos os colegas iniciantes como eu.**
+<img align="center" alt="Bia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="Bia-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-- 🤝 Busco ajuda com **aprendizado.**
+##
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/BiaFontes](https ://github.com/BiaFontes)
-
-- 📫 Contato: **fontesmab@gmail.com**
-
-- 📄 Sobre mim: [https://www.linkedin.com/in/beatriz-fontes-54b15b16a/](https: //www.linkedin.com/in/beatriz-fontes-54b15b16a/)
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" largura ="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biafontes&show_icons=true&locale=en&layout=compact" alt=" biafontes" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=biafontes&show_icons=true&locale=en" alt="biafontes" /></p>
+<div>
+<a href="https://www.instagram.com/biafonttes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:fontesmab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/beatriz-fontes-54b15b16aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
