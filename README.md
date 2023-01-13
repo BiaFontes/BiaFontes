@@ -3,7 +3,7 @@
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=biafontes&label=Profile%20views&color=0e75b6&style=flat" alt="biafontes" /> </p>
 
-- 🌱 Atualmente estou estudando **HTML, CSS, JS.**
+- 🌱 Atualmente estou estudando ** C# **
 
 - 👯 Procuro colaborar **com todos os colegas iniciantes como eu.**
 
