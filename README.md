@@ -1,7 +1,9 @@
-<h1> ** Olá eu sou a Bia 😁** </h1>
+** Olá eu sou a Bia **
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BiaFontes&show_icons=true&theme=monokai"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaFontes&layout=compact&theme=monokai"/>
+💻 Estagiária de programação C#
+📚 Estudante de administração de Banco de Dados
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BiaFontes&show_icons=true&theme=monokai"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaFontes&layout=compact&theme=monokai"/>
 
 ##
 
