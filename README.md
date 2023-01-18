@@ -3,7 +3,7 @@
 <p> 💻 Estagiária de programação C# </p>
 <p> 📚 Estudante de Banco de Dados </p>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BiaFontes&show_icons=true&theme=radical"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaFontes&layout=compact&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BiaFontes&count_private=true&theme=radical"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaFontes&layout=compact&theme=radical"/>
 
 ##
 
